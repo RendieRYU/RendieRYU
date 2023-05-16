@@ -287,11 +287,15 @@ Don't be a programmer, Be a problem solver.
 
 
 - :computer: computer:
-        - Lenovo Legion 5 15ACH6 :
-        - AMD Ryzen 5 5600H with Radeon Graphics
-        - 64-bit operating system, x64-based processor
-        - Windows 11 Home Single Language 22H2
-        - NVIDIA GeForce RTX™ 3050 4GB GDDR6
+    - Lenovo Legion 5 15ACH6
+    - AMD Ryzen 5 5600H with Radeon Graphics
+    - 64-bit operating system, x64-based processor
+    - Windows 11 Home Single Language 22H2
+    - NVIDIA GeForce RTX™ 3050 4GB GDDR6
+    - Up to 16GB DDR4-3200 offering
+    - M.2 2242 SSD up to 512GB
+    - 15.6" FHD (1920 x 1080) IPS, 300 nits, 165Hz, 100% sRGB, Dolby Vision™, Free-Sync, HDR 400, DC dimmer
+    
 
 
 
