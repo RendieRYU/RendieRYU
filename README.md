@@ -179,20 +179,23 @@ for (process = 0; process <= ∞; process++)
 <!--END_SECTION:top-followers-->
 
 
-Github：RendieRYU
+<details open>
+    <summary> 👨‍💻 <b>About Me</b>: </summary>
+    Github：RendieRYU
 
-Name：Rendie Abdi Saputra
+    Name：Rendie Abdi Saputra
+    
+    NIM：2200018094
+    
+    Study：Informatics
+    
+    Faculcity：Industrial Technology
+    
+    University：Ahmad Dahlan University
+    
+    Keep going without end
+</details>
 
-NIM：2200018094
-
-Study：Informatics
-
-Faculcity：Industrial Technology
-
-University：Ahmad Dahlan University
-
-
-Keep going without end
 
 
 - 📫 How to reach me:
