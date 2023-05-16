@@ -108,9 +108,8 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=RendieRYU&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
 ![](https://raw.githubusercontent.com/RendieRYU/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/RendieRYU/github-stats-transparent/output/generated/languages.svg)
+![Most Used Language](https://raw.githubusercontent.com/RendieRYU/github-stats-transparent/output/generated/languages.svg)
 
 
 <!-- <details open>
@@ -208,3 +207,5 @@ for (process = 0; process <= ∞; process++)
 | :pencil2: | :video_game: | :book: |:clapper:  |
 | --- | --- | --- | --- |
 | [Blogs](https://itgoyo.github.io/) |[Games](https://itgoyo.github.io/games/)  | [Books](https://itgoyo.github.io/books/) | [Movies](https://itgoyo.github.io/movies/) |
+
+
