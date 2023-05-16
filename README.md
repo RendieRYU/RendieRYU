@@ -198,8 +198,8 @@ Keep going without end
 - 📫 How to reach me:
     - :octocat: [Github@RendieRYU](https://github.com/RendieRYU)
     - :email: [rendiabdi1217@gmail.com](mailto:rendiabdi1217@gmail.com)
-    - :tv: [Youtube@itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ?view_as=subscriber)
-    - :camera:[Instagram@rendie_ryu](https://www.instagram.com/rendie_ryu/)
+    - :tv: [Youtube@rendieabdisaputra3457](https://www.youtube.com/channel/UCcuqD6wXwtzA1qjUG8lQY9g)
+    - :camera: [Instagram@rendie_ryu](https://www.instagram.com/rendie_ryu/)
 
 
 
