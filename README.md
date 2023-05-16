@@ -278,12 +278,10 @@ Don't be a programmer, Be a problem solver.
 公众号：v2code
 
 - 📫 How to reach me:
-    - :octocat: [Github@itgoyo](https://github.com/itgoyo)
-    - :email: [itgoyo@gmail.com](mailto:itgoyo@gmail.com)
-    - :tv: [Bilibili@itgoyo](https://space.bilibili.com/12767066)
+    - :octocat: [Github@RendieRYU](https://github.com/RendieRYU)
+    - :email: [rendiabdi1217@gmail.com](mailto:rendiabdi1217@gmail.com)
     - :tv: [Youtube@itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ?view_as=subscriber)
-    - :camera:[Instagram@itgoyo](https://www.instagram.com/itgoyo1991/)
-    - :bird:[twitter@itgoyo](https://twitter.com/itgoyo/)
+    - :camera:[Instagram@rendie_ryu](https://www.instagram.com/rendie_ryu/)
 
 
 - :computer: computer:
