@@ -180,10 +180,15 @@ No activity tracked
 
 
 Github：RendieRYU
+
 Name：Rendie Abdi Saputra
+
 NIM：2200018094
+
 Study：Informatics
+
 Faculcity：Industrial Technology
+
 University：Ahmad Dahlan University
 
 
