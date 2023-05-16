@@ -147,7 +147,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+for (process = 0; process <= ∞; process++)
 ```
 
 <!--END_SECTION:waka-->
@@ -228,18 +228,3 @@ Keep going without end
 
 
 ### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#427](https://github.com/biliup/biliup/issues/427) in [biliup/biliup](https://github.com/biliup/biliup)
-2. ❗️ Closed issue [#410](https://github.com/biliup/biliup/issues/410) in [biliup/biliup](https://github.com/biliup/biliup)
-<!--END_SECTION:activity-->
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [日更上百个视频的秘密，巧用AI制作视频，自媒体创作神器一帧秒创](https://www.youtube.com/watch?v=qfZF_kLoksM)
-- [没有公网 IP？用这台路由器拯救你](https://www.youtube.com/watch?v=cHNJZEKXrmc)
-- [捡漏！HP Gen8，千元打造一个完美的家庭服务器，娱乐办公两不误！](https://www.youtube.com/watch?v=-tEo26a1eKM)
-- [AI视频-当观众们发现我的视频是由AI自动生成了都懵了！| 文字转视频| 自媒体神器 | AI | ChatGPT | 自媒体](https://www.youtube.com/watch?v=zLGD7DaKtYQ)
-- [巴掌大的家庭服务器，我心目中的梦想情机硬酷R1。N6005+4个2.5G网口 | PVE | ESXi | HomeAssistant | 24小时推流机 |](https://www.youtube.com/watch?v=IoxWN77SgBM)
-<!-- YOUTUBE:END -->
-
