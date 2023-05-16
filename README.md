@@ -103,13 +103,6 @@
     <a href="https://www.notion.so/" target="_blank">
         <img src="https://logos-download.com/wp-content/uploads/2019/06/Notion_App_Logo.png" alt="" width="40" height="40"/>
     </a>
-    <a href="" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/" alt="" width="40" height="40"/>
-    </a>
-    <a href="" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/" alt="" width="40" height="40"/>
-    </a>
-
 </p>
 
 
@@ -132,13 +125,9 @@
 
 </details>
 
-### Latest Tweets
+### 🎧 YouTube Music Playing
 
-<p><a href="https://www.twitter.com/itgoyo"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=itgoyo&amp;layout=wide" alt="github-readme-twitter"></a></p>
-
-### 🎧 Spotify Playing
-
-![spotify-github-profile](/img/default.svg)
+![ytmusic-github-profile](/img/default.svg)
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
 
 
@@ -178,7 +167,6 @@ for (process = 0; process <= ∞; process++)
 </table>
 <!--END_SECTION:top-followers-->
 
-### :zap: Recent Activity
 - 👨‍💻 About Me:
     - Github：RendieRYU
     - Name：Rendie Abdi Saputra
@@ -222,4 +210,3 @@ for (process = 0; process <= ∞; process++)
 | [Blogs](https://itgoyo.github.io/) |[Games](https://itgoyo.github.io/games/)  | [Books](https://itgoyo.github.io/books/) | [Movies](https://itgoyo.github.io/movies/) |
 
 
-### :zap: Recent Activity
