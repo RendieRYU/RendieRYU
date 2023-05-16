@@ -178,23 +178,17 @@ No activity tracked
 </table>
 <!--END_SECTION:top-followers-->
 
-名字：李狗蛋LGD
 
 Github：RendieRYU
-
 Name：Rendie Abdi Saputra
-
 NIM：2200018094
-
 Study：Informatics
-
 Faculcity：Industrial Technology
+University：Ahmad Dahlan University
 
 
+Keep going without end
 
-Don't be a programmer, Be a problem solver.
-
-公众号：v2code
 
 - 📫 How to reach me:
     - :octocat: [Github@RendieRYU](https://github.com/RendieRYU)
