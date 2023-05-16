@@ -180,13 +180,17 @@ No activity tracked
 
 名字：李狗蛋LGD
 
-Github：itgoyo
+Github：RendieRYU
 
-微博、知乎、B站：李狗蛋LGD
+Name：Rendie Abdi Saputra
 
-斗鱼房间:https://www.douyu.com/201001
+NIM：2200018094
 
-B站房间:https://live.bilibili.com/3519206
+Study：Informatics
+
+Faculcity：Industrial Technology
+
+
 
 Don't be a programmer, Be a problem solver.
 
