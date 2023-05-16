@@ -186,8 +186,7 @@ for (process = 0; process <= ∞; process++)
     - Study：Informatics
     - Faculcity：Industrial Technology
     - University：Ahmad Dahlan University
-    
-    Keep going without end
+    - Country：Indonesian
 
 
 
