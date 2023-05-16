@@ -181,21 +181,14 @@ for (process = 0; process <= ∞; process++)
 
 <details open>
     <summary> 👨‍💻 <b>About Me</b>: </summary>
-    <p>
-        Github：RendieRYU
-        <br>
-        Name：Rendie Abdi Saputra
-        <br>
-        NIM：2200018094
-        <br>
-        Study：Informatics
-        <br>
-        Faculcity：Industrial Technology
-        <br>
-        University：Ahmad Dahlan University
-        <br>
-        Keep going without end
-    </p>
+    - Github：RendieRYU
+    - Name：Rendie Abdi Saputra
+    - NIM：2200018094
+    - Study：Informatics
+    - Faculcity：Industrial Technology
+    - University：Ahmad Dahlan University
+    
+    Keep going without end
 </details>
 
 
