@@ -178,9 +178,8 @@ for (process = 0; process <= ∞; process++)
 </table>
 <!--END_SECTION:top-followers-->
 
-
-<details open>
-    <summary> 👨‍💻 <b>About Me</b>: </summary>
+### :zap: Recent Activity
+- 👨‍💻 About Me:
     - Github：RendieRYU
     - Name：Rendie Abdi Saputra
     - NIM：2200018094
@@ -189,7 +188,6 @@ for (process = 0; process <= ∞; process++)
     - University：Ahmad Dahlan University
     
     Keep going without end
-</details>
 
 
 
