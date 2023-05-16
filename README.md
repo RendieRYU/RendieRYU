@@ -154,7 +154,7 @@ No activity tracked
 
 ### :sparkles: My Followers
 
-![Metrics](https://metrics.lecoq.io/itgoyo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/RendieRYU?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -286,33 +286,20 @@ Don't be a programmer, Be a problem solver.
     - :bird:[twitter@itgoyo](https://twitter.com/itgoyo/)
 
 
-- :computer: PC/Mac:
-    - M1 Pro 16寸 16G+512G
-    - NUC8i7HVK 64G 2TSSD Big Sur 11.2 + Win10
-    - MacBookPro2015 16G 256SSD
-    - Mac Mini m1 16G 512SSD
-    - i7-6700k 32G 256SSD+4T RX590 MacOS Big Sur 11.1
-    - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.7
-    - i5-10400  16G 512SSD Ubuntu20.04 + Win10
-    - i5-10400  16G 512SSD+256SSD Win10 + Big Sur 11.1
-    - TencentCloud 4Core-4G-80G-1200G/3Year Ubuntu20.04
-    - 蜗牛星际 J1900+4G +3T DSM918+
-    - 威联通QNAP TS462C 500G
-    - 威联通QNAP TVS-675 8h8c
-    - ZimaBoard
-    - Gen8
-    - 硬酷R1 N6005 16+512
+- :computer: computer:
+        - Lenovo Legion 5 15ACH6 :
+        - AMD Ryzen 5 5600H with Radeon Graphics
+        - 64-bit operating system, x64-based processor
+        - Windows 11 Home Single Language 22H2
+        - NVIDIA GeForce RTX™ 3050 4GB GDDR6
 
-- :iphone: phone/iPhone:
-    - iPhone12
 
-- :camera: Camera:
-    - Sony A6000
-    - Sony A6400
 
-- :microphone: Mic:
-    - SM7B + ID14MKII
-    - MAONO PM320T + E2
+- :phone: phone:
+    - Redmi 4A
+    - Redmi Note 8
+    - Samsung A52S 5G
+
 
 | :pencil2: | :video_game: | :book: |:clapper:  |
 | --- | --- | --- | --- |
