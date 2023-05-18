@@ -106,6 +106,9 @@
     <a href="https://www.dosbox.com/" target="_blank">
         <img src="https://static.doomworld.com/monthly_2019_12/DOSBox_icon.png.fc58ad6060c9b02b3014d3be50e989f0.png" alt="" width="40" height="40"/>
     </a>
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="" width="40" height="40"/>
+    </a>
 </p>
 
 
