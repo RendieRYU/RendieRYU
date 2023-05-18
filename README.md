@@ -103,6 +103,9 @@
     <a href="https://www.notion.so/" target="_blank">
         <img src="https://logos-download.com/wp-content/uploads/2019/06/Notion_App_Logo.png" alt="" width="40" height="40"/>
     </a>
+    <a href="https://www.dosbox.com/" target="_blank">
+        <img src="https://static.doomworld.com/monthly_2019_12/DOSBox_icon.png.fc58ad6060c9b02b3014d3be50e989f0.png" alt="" width="40" height="40"/>
+    </a>
 </p>
 
 
