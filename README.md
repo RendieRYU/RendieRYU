@@ -108,6 +108,7 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=RendieRYU&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RendieRYU&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- <details open>
