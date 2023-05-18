@@ -61,10 +61,9 @@
     </a> 
     <a href="https://www.python.org" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-
-
+    </a>
 </p>
+
 <h3 align="left">Tools:</h3>
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank"> 
@@ -109,6 +108,9 @@
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="" width="40" height="40"/>
     </a>
+    <a href="https://www.canva.com/" target="_blank"> 
+        <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/canva-icon.png" alt="python" width="40" height="40"/> 
+    </a> 
 </p>
 
 
