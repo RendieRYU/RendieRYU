@@ -31,7 +31,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rendie Abdi Saputra</h1>
-<h3 align="center">Informatics Student from Indonesia :indonesia: </h3>
+<h3 align="center">Informatics Student from Indonesia </h3> :indonesia:
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
