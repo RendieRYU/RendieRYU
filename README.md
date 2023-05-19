@@ -156,18 +156,26 @@ for (process = 0; process <= ∞; process++)
   <tr>
     <td align="center">
       <a href="https://github.com/rzarey">
-        <img src="https://avatars.githubusercontent.com/u/71277418?v=4" width="100px;" alt="NaiboWang"/>
+        <img src="https://avatars.githubusercontent.com/u/71277418?v=4" width="100px;" alt="rzarey"/>
       </a>
       <br />
       <a href="https://github.com/rzarey">rzarey</a>
     </td>
     <td align="center">
       <a href="https://github.com/IRedDragonICY">
-        <img src="https://avatars.githubusercontent.com/u/98265563?v=4" width="100px;" alt="hoochanlon"/>
+        <img src="https://avatars.githubusercontent.com/u/98265563?v=4" width="100px;" alt="ndik"/>
       </a>
       <br />
       <a href="https://github.com/IRedDragonICY">Ndik</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/PanggilAjaRay">
+        <img src="https://avatars.githubusercontent.com/u/86412842?v=4" width="100px;" alt="ray"/>
+      </a>
+      <br />
+      <a href="https://github.com/PanggilAjaRay">PanggilAjaRay</a>
+    </td>
+    
     
   </tr>
 </table>
