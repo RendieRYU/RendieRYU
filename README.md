@@ -117,6 +117,9 @@
     <a href="https://bootstrapstudio.io/" target="_blank"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bootstrap_Studio_Logo.png/480px-Bootstrap_Studio_Logo.png" alt="python" width="40" height="40"/> 
     </a> 
+    <a href="https://emu8086-microprocessor-emulator.en.softonic.com/" target="_blank"> 
+        <img src="https://img.apponic.com/28/3/ca609bab1385855220fd15dff809b2f0.png" alt="python" width="40" height="40"/> 
+    </a> 
 </p>
 
 
