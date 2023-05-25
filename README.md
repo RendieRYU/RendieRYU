@@ -113,6 +113,9 @@
     </a>
     <a href="https://getbootstrap.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="python" width="40" height="40"/> 
+    </a>
+    <a href="https://bootstrapstudio.io/" target="_blank"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bootstrap_Studio_Logo.png/480px-Bootstrap_Studio_Logo.png" alt="python" width="40" height="40"/> 
     </a> 
 </p>
 
