@@ -276,8 +276,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RendieRYU&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF416C" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendieRYU&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF416C" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RendieRYU&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RendieRYU&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
